@@ -1,0 +1,9 @@
+---
+layout: post
+title: "*IDEA* RESTful Wiki URLs"
+date: 2012-02-15
+comments: false
+---
+
+<div class='post'>
+Typical Wiki URLs:<br /><br /><br /><ul><li>/SomePage</li><li>/edit/SomePage</li></ul><div>Encoding the verb in the URL isn't RESTful. &nbsp;Maybe build a simple Wiki that uses javascript and POST, PUT, or PATCH verbs properly to handle updates to a resource.</div><div><br /></div><div>Other options:</div><div><br /></div><div>You could also make the editor a real resource:</div><div><ul><li>/SomePage</li><li>/Editor?page=SomePage</li></ul><div>You could make editing an option GET:</div></div><div><ul><li>/SomePage</li><li>/SomePage?mode=edit</li></ul><div>Edit shows you the same page content but in a viewable form. &nbsp;Clicking submit uses post/put/patch and updates the content of the Wiki page.</div></div><div><br /></div><div>I think the restful option is actually using ?view=editor / ?mode=edit to edit the page. &nbsp;It means that an edit link on a page just needs to add "?query=param" to the current location. &nbsp;It also means that you have a single canonical URL for a resource rather than having "/SomePage" and "/edit/SomePage" all over the place.</div><div><br /></div><div><br /></div></div>
