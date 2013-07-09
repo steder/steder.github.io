@@ -1,9 +1,0 @@
----
-layout: post
-title: "Twisted python development server with restart on code change"
-date: 2012-10-04
-comments: false
----
-
-<div class='post'>
-I really enjoy working with the Twisted framework because it allows me to easily and cleanly blend multiple protocols and services together in a single application. &nbsp;However, when I'm developing and testing a Twisted-based server it is sometimes inconvenient to have to manually restart the server after each change.<br /><br />Anyway, to that end I wrote a little wrapper script to run in place of the Twisted command-line tool 'twistd' called 'twistr'.<br /><br /><a href="https://github.com/steder/twistr">Twistr </a>very simply wraps 'twistd' and restarts the twistd process on changes. <br /><br />If this is interesting or helpful to you feel free to check it out:<br /><blockquote class="tr_bq">&nbsp; &nbsp; $&nbsp;<a href="http://pypi.python.org/pypi/Twistr">pip install twistr</a></blockquote>... should do the trick.<br /><br /></div>
