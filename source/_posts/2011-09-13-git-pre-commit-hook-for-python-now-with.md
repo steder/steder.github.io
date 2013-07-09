@@ -18,7 +18,7 @@ quick python version of the same script using
 [pyflakes](http://pypi.python.org/pypi/pyflakes) instead of
 [pylint](http://www.logilab.org/857).
 
-```
+``` python
 #!/usr/bin/env python
 #-*- mode: python -*-
 from subprocess import Popen, PIPE
