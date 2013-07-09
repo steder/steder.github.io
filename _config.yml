@@ -98,3 +98,8 @@ google_analytics_tracking_id: UA-571521-1
 
 # Facebook Like
 facebook_like: false
+
+# navigation for octoflat theme:
+navigation:
+ - text: blog
+   url: /index.html
