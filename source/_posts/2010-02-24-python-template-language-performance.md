@@ -33,7 +33,7 @@ I'm still suprised by the fact that chameleon beats clearsilver here.
 
 Ah. The ClearSilver benchmark looks something like:
 
-```
+``` python
 def test_clearsilver():
     """ClearSilver"""
     hdf = neo_util.HDF()
