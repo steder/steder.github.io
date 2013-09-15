@@ -23,7 +23,8 @@ Despite being incredibly handsome and popular I was drawn to the quiet dignity o
 
 I am always interested in hearing from folks who have read my blog or is interested in any of the software I've got out there. Feel free to contact me and I'll do my best to get back to you asap.
 
+
  - You could email: steder@gmail.com
- - You could follow me on Google+ profile
- - You could follow me on Twitter @thested
- - You could check out my StackOverflow profile
+ - You could follow me on [Google+](https://plus.google.com/105644506967919338410/posts)
+ - You could follow me on Twitter [@thested](http://twitter.com/thested)
+ - You could check out my StackOverflow [profile](http://stackoverflow.com/users/19556/mike-steder)
