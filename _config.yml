@@ -102,6 +102,12 @@ facebook_like: false
 # navigation for octoflat theme:
 navigation:
  - text: hompage
-   url: http://mikesteder.com
- - text: blog
    url: /index.html
+ - text: about
+   url: /about.html
+ - text: projects
+   url: /projects.html
+ - text: timeline
+   url: /timeline.html
+ - text: blog
+   url: /blog/index.html
