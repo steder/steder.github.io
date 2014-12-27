@@ -39,7 +39,7 @@ bugs or avoiding building a feature the "right way" either by ignoring best prac
 the system to hit a target date forces you to essentially mortage your code base and take on "Tecnical Debt".
 {% endpullquote %}
 
-Some software issues are incorrectly interpreted as dept.  For example, bugs in your software are not necessarily debt.  Some bugs can exist for years and are a non-issue.  Some people think something is a bug when it's really a feature of the system.  Some bugs occur only infrequently or no one knows how they bug should really be fixed.  While these are frustrating, they generally not issues of debt.
+Some software issues are incorrectly interpreted as debt.  For example, bugs in your software are not necessarily debt.  Some bugs can exist for years and are a non-issue.  Some people think something is a bug when it's really a feature of the system.  Some bugs occur only infrequently or no one knows how they bug should really be fixed.  While these are frustrating, they generally not issues of debt.
 
 Instead, technical debt is typically design decisions that were made in the name of expediency that you may or may not have realized would cause problems down the line.  Sadly, expereienced engineers sometimes incur this debt despite the fact they know it will eventually be a problem because:
 
