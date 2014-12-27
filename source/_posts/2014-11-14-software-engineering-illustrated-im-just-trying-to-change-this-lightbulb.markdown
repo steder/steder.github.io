@@ -96,7 +96,7 @@ Business folks think the following things that are also somewhat true:
 3. In previous situations they were able to hit the date despite saying they couldn't, they just need to work harder
 4. This is the most important project at the company and they are the highest paid people, it's okay if they work harder
 
-Yes, quality can slip a little bit to hit a date, and yes the project is likely important and yes you likely pay these software folks quite well compared to some in your company.
+Yes, quality can slip a little bit to hit a date, and yes, the project is likely important and yes, you likely pay these software folks quite well compared to other roles in your company.
 
 However, a lack of trust is not really a good reason to assume that your software group is dragging their feet and despite the high pay, sometimes equipment and resources are still an issue.  Perhaps better IT infrasture, better tools, or additional personnel could complete a project more quickly and if something is truly that important to your business perhaps spending more money to acquire additional resources is the answer.
 
