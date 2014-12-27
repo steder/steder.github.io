@@ -107,7 +107,7 @@ Fortunately, business people actually have a good understanding of debt and borr
 The path towards responsible tech debt financials lies somewhere between these two view points.  Typically the business side and software side are both looking out for the best interests of the business or project of which they're a member.  I think that the appropriate response to the presence of technical
 debt on your team is the following:
 
-1. Carve out a portion of your software teams time to pay down technical debt.  You want to pay down as much as you can to address some of the principle part of the loan, so that you are not just paying down interest.  To do this I advocate treating your engineering / software team as an equal
+1. Carve out a portion of your software team's time to pay down technical debt.  You want to pay down as much as you can to address some of the principle part of the loan, so that you are not just paying down interest.  To do this I advocate treating your engineering / software team as an equal
 stakeholder in the business in terms of time allocated.
 
 For example, if you currently work on 4 projects at a time, one for each of 4 business units at your company, you first need to recognize that there are actually 5 "real" projects you need to be able to tackle and that a portion of hours from the 4 projects needs to be allocated to this fifth, home improvement project.
