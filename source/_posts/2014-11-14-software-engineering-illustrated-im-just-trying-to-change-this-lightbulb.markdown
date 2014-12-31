@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software Illustrated: I'm just trying to change this lightbulb"
-date: 2014-11-14 07:03
+date: 2014-12-31 07:03
 comments: true
 categories: engineering management gifs software illustrated
 ---
@@ -19,7 +19,7 @@ Let it wash over you.  Watch it a few times.
 - Hal enters, walks to the kitchen and immediately tries to turn on a light in the kitchen
 - Hal turns it off and on again
 - Hal check the bulb and decides it needs to be replaced
-- Hal goes to a kitchen cabinent to get a bulb
+- Hal goes to a kitchen cabinet to get a bulb
 - As he's reaching for the bulb he notes the shelf is loose
 - Hal decides to fix the shelf and opens a drawer to get a screwdriver
 - The drawer squeaks so Hal decides to get WD-40 to fix the squeak
@@ -36,12 +36,12 @@ Hal and Lois just illustrated for us what software people like to call "Technica
 Technical debt conceptually leans very heavily on the financial concept of debt.  {" Essentially,
 you accumulate technical debt by taking short cuts or not fixing problems when they occur. "}  Deferring fixing
 bugs or avoiding building a feature the "right way" either by ignoring best practices or cutting corners in
-the system to hit a target date forces you to essentially mortage your code base and take on "Tecnical Debt".
+the system to hit a target date forces you to essentially mortgage your code base and take on "Technical Debt".
 {% endpullquote %}
 
 Some software issues are incorrectly interpreted as debt.  For example, bugs in your software are not necessarily debt.  Some bugs can exist for years and are a non-issue.  Some people think something is a bug when it's really a feature of the system.  Some bugs occur only infrequently or no one knows how they bug should really be fixed.  While these are frustrating, they generally not issues of debt.
 
-Instead, technical debt is typically design decisions that were made in the name of expediency that you may or may not have realized would cause problems down the line.  Sadly, expereienced engineers sometimes incur this debt despite the fact they know it will eventually be a problem because:
+Instead, technical debt is typically design decisions that were made in the name of expediency that you may or may not have realized would cause problems down the line.  Sadly, experienced engineers sometimes incur this debt despite the fact they know it will eventually be a problem because:
 
  - I'll rewrite it before we get enough customers that scalability will be an issue
  - I'll fix it after RELEASE_DATE/CUSTOMER_DEMO when we finally have some time to do things right
@@ -61,7 +61,7 @@ Typically any software system has some amount of technical debt so it's not alwa
 
 Part of what makes technical debt challenging is that software people and business people within your organization likely look at the priority of paying down technical debt completely differently.
 
-For example, if Hal is a typical software person on your team, from his perspective he's trying to finish the project "Have working kitchen lights" as quickly as possible while following the boyscout rule and at each step of the process leaving the camp site nicer than it was when he arrived.  In this case, that means fixing the loose shelf in kitchen cabinent, fixing the squeaky drawer, the car, etc.
+For example, if Hal is a typical software person on your team, from his perspective he's trying to finish the project "Have working kitchen lights" as quickly as possible while following the boyscout rule and at each step of the process leaving the camp site nicer than it was when he arrived.  In this case, that means fixing the loose shelf in kitchen cabinet, fixing the squeaky drawer, the car, etc.
 
 Assuming Lois is our CEO, she's really confused by this behavior.  She's thinking, that kitchen light is critical for the business and needs to be completed as soon as possible so other work can proceed, a new client can be signed, etc.  Any delay for minor issues like loose shelves or squeaky drawers seems like a complete waste.  Lois can completely understand the emergency car fix, but she's still confused as to why that's necessary now to simply change the lightbulb.
 
@@ -83,7 +83,7 @@ Engineers think a number of things that are all somewhat true and attempt to ove
 
 Now what's true from an Engineering perspective is that this bug is likely not important enough to tackle right now and that it should be prioritized.
 
-What hopefully isn't true in your business is that no-one will ever care about this issue and that it will never be fixed.  Instead, I hope you periodically address technical issues brought up during prioritized work and you fix bugs like "Loose shelf in kitchen cabinent".
+What hopefully isn't true in your business is that no-one will ever care about this issue and that it will never be fixed.  Instead, I hope you periodically address technical issues brought up during prioritized work and you fix bugs like "Loose shelf in kitchen cabinet".
 
 ## Business Perspective
 
@@ -98,7 +98,7 @@ Business folks think the following things that are also somewhat true:
 
 Yes, quality can slip a little bit to hit a date, and yes, the project is likely important and yes, you likely pay these software folks quite well compared to other roles in your company.
 
-However, a lack of trust is not really a good reason to assume that your software group is dragging their feet and despite the high pay, sometimes equipment and resources are still an issue.  Perhaps better IT infrasture, better tools, or additional personnel could complete a project more quickly and if something is truly that important to your business perhaps spending more money to acquire additional resources is the answer.
+However, a lack of trust is not really a good reason to assume that your software group is dragging their feet and despite the high pay, sometimes equipment and resources are still an issue.  Perhaps better IT infrastructure, better tools, or additional personnel could complete a project more quickly and if something is truly that important to your business perhaps spending more money to acquire additional resources is the answer.
 
 Fortunately, business people actually have a good understanding of debt and borrowing.  Unfortunately, they likely don't have the technical expertise to understand if the debt they've accumulated is a little or a lot.  Determining the amount of debt the business has is something that requires a good working relationship, even trust, between the business and engineering sides of an organization.
 
@@ -110,10 +110,10 @@ The path towards responsible tech debt financials lies somewhere between these t
 
     For example, if you currently work on 4 projects at a time, one for each of 4 business units at your company, you first need to recognize that there are actually 5 "real" projects you need to be able to tackle and that a portion of hours from the 4 projects needs to be allocated to this fifth, home improvement project.
 
-    e.g.: if you're currently allocating 25 hours a week to each of the four projects, I'd reduce each of thsoe projects hours from 25 to 20 and run 5 projects at 20 hours a piece.
+    e.g.: if you're currently allocating 25 hours a week to each of the four projects, I'd reduce each of those projects hours from 25 to 20 and run 5 projects at 20 hours a piece.
 
 2. Prioritize technical debt tasks.  Estimate them and treat them like real work.  The only thing really different is that the stakeholder for this work is the engineers, not some customer or project manager elsewhere in your company.
 
-3. Create a "home improvement" rotation or otherwise allocate this work to memebers of your software team.
+3. Create a "home improvement" rotation or otherwise allocate this work to members of your software team.
 
 4. Demo this debt retirement work to your software team, and where appropriate, to the rest of the business.  Better quality, faster, and/or easier to use features should be relevant to all and something that should be recognized and positively reinforced.
