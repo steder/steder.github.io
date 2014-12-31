@@ -11,6 +11,13 @@ footer: true
 
 Some projects I've worked on over the years:
 
+## Giraffe - Python Image Proxy (Inspired by Imgix)
+
+At [threadless](https://www.threadless.com) I worked on generating design and product images programmatically
+and dynamically from the frontend of our site and this was the result after a Christmas break worth of work:
+
+https://github.com/steder/giraffe
+
 ## txTemplate - Interface for template engines in Twisted
 
 Provides simple integration between Twisted's Asynchronous API and the synchronous APIs of many Python template systems so you can use Twiste and Jinja2 (or Genshi or Clearsilver).
