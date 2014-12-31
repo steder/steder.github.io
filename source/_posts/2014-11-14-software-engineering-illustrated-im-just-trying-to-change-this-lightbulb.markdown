@@ -39,7 +39,7 @@ bugs or avoiding building a feature the "right way" either by ignoring best prac
 the system to hit a target date forces you to essentially mortage your code base and take on "Tecnical Debt".
 {% endpullquote %}
 
-Some software issues are incorrectly interpreted as dept.  For example, bugs in your software are not necessarily debt.  Some bugs can exist for years and are a non-issue.  Some people think something is a bug when it's really a feature of the system.  Some bugs occur only infrequently or no one knows how they bug should really be fixed.  While these are frustrating, they generally not issues of debt.
+Some software issues are incorrectly interpreted as debt.  For example, bugs in your software are not necessarily debt.  Some bugs can exist for years and are a non-issue.  Some people think something is a bug when it's really a feature of the system.  Some bugs occur only infrequently or no one knows how they bug should really be fixed.  While these are frustrating, they generally not issues of debt.
 
 Instead, technical debt is typically design decisions that were made in the name of expediency that you may or may not have realized would cause problems down the line.  Sadly, expereienced engineers sometimes incur this debt despite the fact they know it will eventually be a problem because:
 
@@ -96,7 +96,7 @@ Business folks think the following things that are also somewhat true:
 3. In previous situations they were able to hit the date despite saying they couldn't, they just need to work harder
 4. This is the most important project at the company and they are the highest paid people, it's okay if they work harder
 
-Yes, quality can slip a little bit to hit a date, and yes the project is likely important and yes you likely pay these software folks quite well compared to some in your company.
+Yes, quality can slip a little bit to hit a date, and yes, the project is likely important and yes, you likely pay these software folks quite well compared to other roles in your company.
 
 However, a lack of trust is not really a good reason to assume that your software group is dragging their feet and despite the high pay, sometimes equipment and resources are still an issue.  Perhaps better IT infrasture, better tools, or additional personnel could complete a project more quickly and if something is truly that important to your business perhaps spending more money to acquire additional resources is the answer.
 
@@ -107,7 +107,7 @@ Fortunately, business people actually have a good understanding of debt and borr
 The path towards responsible tech debt financials lies somewhere between these two view points.  Typically the business side and software side are both looking out for the best interests of the business or project of which they're a member.  I think that the appropriate response to the presence of technical
 debt on your team is the following:
 
-1. Carve out a portion of your software teams time to pay down technical debt.  You want to pay down as much as you can to address some of the principle part of the loan, so that you are not just paying down interest.  To do this I advocate treating your engineering / software team as an equal
+1. Carve out a portion of your software team's time to pay down technical debt.  You want to pay down as much as you can to address some of the principle part of the loan, so that you are not just paying down interest.  To do this I advocate treating your engineering / software team as an equal
 stakeholder in the business in terms of time allocated.
 
 For example, if you currently work on 4 projects at a time, one for each of 4 business units at your company, you first need to recognize that there are actually 5 "real" projects you need to be able to tackle and that a portion of hours from the 4 projects needs to be allocated to this fifth, home improvement project.
