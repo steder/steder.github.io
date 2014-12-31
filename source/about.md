@@ -28,3 +28,4 @@ I am always interested in hearing from folks who have read my blog or is interes
  - You could follow me on [Google+](https://plus.google.com/105644506967919338410/posts)
  - You could follow me on Twitter [@thested](http://twitter.com/thested)
  - You could check out my StackOverflow [profile](http://stackoverflow.com/users/19556/mike-steder)
+ - You could stalk me on [Github](https://github.com/steder)
