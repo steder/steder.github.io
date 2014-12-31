@@ -1,5 +1,4 @@
 <ul class="nav">
-    <li><a href="/">Mike Steder</a></li>
     {% for link in site.navigation %}
         <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{ link.url }}">{{ link.text }}</a></li>
     {% endfor %}

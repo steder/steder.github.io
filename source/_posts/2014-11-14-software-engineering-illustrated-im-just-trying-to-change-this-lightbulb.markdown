@@ -104,25 +104,16 @@ Fortunately, business people actually have a good understanding of debt and borr
 
 # Addressing Technical Debt
 
-The path towards responsible tech debt financials lies somewhere between these two view points.  Typically the business side and software side are both looking out for the best interests of the business or project of which they're a member.  I think that the appropriate response to the presence of technical
-debt on your team is the following:
+The path towards responsible tech debt financials lies somewhere between these two view points.  Typically the business side and software side are both looking out for the best interests of the business or project of which they're a member.  I think that the appropriate response to the presence of technical debt on your team is the following:
 
-1. Carve out a portion of your software team's time to pay down technical debt.  You want to pay down as much as you can to address some of the principle part of the loan, so that you are not just paying down interest.  To do this I advocate treating your engineering / software team as an equal
-stakeholder in the business in terms of time allocated.
+1. Carve out a portion of your software team's time to pay down technical debt.  You want to   pay down as much as you can to address some of the principle part of the loan, so that you are not just paying down interest.  To do this I advocate treating your engineering / software team as an equal stakeholder in the business in terms of time allocated.
 
-For example, if you currently work on 4 projects at a time, one for each of 4 business units at your company, you first need to recognize that there are actually 5 "real" projects you need to be able to tackle and that a portion of hours from the 4 projects needs to be allocated to this fifth, home improvement project.
+    For example, if you currently work on 4 projects at a time, one for each of 4 business units at your company, you first need to recognize that there are actually 5 "real" projects you need to be able to tackle and that a portion of hours from the 4 projects needs to be allocated to this fifth, home improvement project.
 
-e.g.: 
-
-    if you're currently allocating 25 hours a week to each of the four projects, I'd reduce each of thsoe projects hours from 25 to 20 and run 5 projects at 20 hours a piece.
+    e.g.: if you're currently allocating 25 hours a week to each of the four projects, I'd reduce each of thsoe projects hours from 25 to 20 and run 5 projects at 20 hours a piece.
 
 2. Prioritize technical debt tasks.  Estimate them and treat them like real work.  The only thing really different is that the stakeholder for this work is the engineers, not some customer or project manager elsewhere in your company.
 
 3. Create a "home improvement" rotation or otherwise allocate this work to memebers of your software team.
 
 4. Demo this debt retirement work to your software team, and where appropriate, to the rest of the business.  Better quality, faster, and/or easier to use features should be relevant to all and something that should be recognized and positively reinforced.
-
-## Vol 1, Issue 1:
-
-Software Engineering Illustrated is my attempt to combine my love of GIFs
-with my love of solving problems with computers.
