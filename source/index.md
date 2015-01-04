@@ -11,7 +11,7 @@ footer: true
 
 ## Projects
 
-I write software.  Python, Javascript and Objective-C are some of my favorite languages although learning new programming languages is a hobby of mine.
+I write software.  Python, Javascript and Haskell are some of my favorite languages although learning new programming languages is a hobby of mine.
 
 [More](/projects.html)
 
