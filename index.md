@@ -1,6 +1,28 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
+title: "I love computers"
+#date: 2013-09-15 13:56
+comments: true
+sharing: true
+footer: true
 ---
+
+![kittens](index.JPG)
+
+## Projects
+
+I write software.  Python, Javascript and Haskell are some of my favorite languages although learning new programming languages is a hobby of mine.
+
+[More](/projects.html)
+
+## Interests
+
+Distributed Systems, Test Driven Development, gaming, and homebrewing.
+
+[More](/timeline.html)
+
+## Contact
+
+I'm always open to hear about new opportunities and to discuss projects.
+
+[More](/about.html)
