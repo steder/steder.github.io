@@ -17,10 +17,10 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - {
-          label: "Allow Comments",
-          name: "comments",
-          widget: "boolean",
-          default: false,
-        }
-      - { label: "Tags", name: "categories", widget: "list", default: [] }
+      # - {
+      #     label: "Allow Comments",
+      #     name: "comments",
+      #     widget: "boolean",
+      #     default: false,
+      #   }
+      # - { label: "Tags", name: "categories", widget: "list", default: [] }
