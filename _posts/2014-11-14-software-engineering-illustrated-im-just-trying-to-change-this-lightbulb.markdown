@@ -2,7 +2,7 @@
 layout: post
 title: "Software Illustrated: I'm just trying to change this lightbulb"
 date: 2014-12-31 07:03
-comments: true
+comments: false
 categories: engineering management gifs software illustrated
 ---
 
