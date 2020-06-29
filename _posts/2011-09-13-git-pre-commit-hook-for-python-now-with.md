@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Git Pre-commit Hook For Python now with extra
-Python!"
+title: "Git Pre-commit Hook For Python now with extra Python!"
 date: 2011-09-13
 comments: false
 categories:

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Python template language performance (Chameleon
-is cool!)"
+title: "Python template language performance (Chameleon is cool!)"
 date: 2010-02-24
 comments: false
-
 ---
 
 I really like the Genshi templating library. However, it really doesn't
