@@ -5,5 +5,4 @@ date: 2009-10-17
 comments: false
 ---
 
-<div class='post'>
-Hello, World!</div>
+# Hello, World!
