@@ -1,2 +1,0 @@
---- layout: post title: "Thunkopotamus" date: 2010-06-15 comments: false
----
