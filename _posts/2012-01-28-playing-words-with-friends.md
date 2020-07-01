@@ -77,9 +77,9 @@ categories:
         style="font-family: inherit;"><br /></span><br /><br />For example, a trie of nodes for the words "an apple yum"
     would look like:<br />
     <div class="separator" style="clear: both; text-align: center;"><a
-            href="http://2.bp.blogspot.com/-_yB946MXC2c/TxtAs0Lpi-I/AAAAAAAAAgM/l40QlNz4vBU/s1600/trie.png"
+            href="/imagestrie.png"
             imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320"
-                src="http://2.bp.blogspot.com/-_yB946MXC2c/TxtAs0Lpi-I/AAAAAAAAAgM/l40QlNz4vBU/s320/trie.png"
+                src="/imagestrie.png"
                 width="163" /></a></div><br />So the trie solution for finding words that begin with a certain prefix
     is:<br /><br />
     <script src="https://gist.github.com/1653998.js?file=trie.py"></script> <br /><br />The suffix version is just a

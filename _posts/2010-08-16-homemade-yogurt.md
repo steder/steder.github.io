@@ -18,9 +18,9 @@ categories:
         <tbody>
             <tr>
                 <td style="text-align: center;"><a
-                        href="http://1.bp.blogspot.com/_5HOAXNGNmPE/TGGGK_GioyI/AAAAAAAAAJA/MTThx8b2aC0/s1600/IMG_0001.jpg"
+                        href="/images/IMG_0001.jpg"
                         imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="240"
-                            src="http://1.bp.blogspot.com/_5HOAXNGNmPE/TGGGK_GioyI/AAAAAAAAAJA/MTThx8b2aC0/s320/IMG_0001.jpg"
+                            src="/images/IMG_0001.jpg"
                             width="320" /></a></td>
             </tr>
             <tr>
@@ -84,10 +84,10 @@ categories:
                 <tbody>
                     <tr>
                         <td style="text-align: center;"><a
-                                href="http://4.bp.blogspot.com/_5HOAXNGNmPE/TGGGQHtBG-I/AAAAAAAAAJE/G3x6NcpOHls/s1600/IMG_0003.jpg"
+                                href="/imagesIMG_0003.jpg"
                                 imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0"
                                     height="240"
-                                    src="http://4.bp.blogspot.com/_5HOAXNGNmPE/TGGGQHtBG-I/AAAAAAAAAJE/G3x6NcpOHls/s320/IMG_0003.jpg"
+                                    src="/imagesIMG_0003.jpg"
                                     width="320" /></a></td>
                     </tr>
                     <tr>
@@ -101,10 +101,10 @@ categories:
                 <tbody>
                     <tr>
                         <td style="text-align: center;"><a
-                                href="http://4.bp.blogspot.com/_5HOAXNGNmPE/TGGGby8d7zI/AAAAAAAAAJY/IXb1C9NfMFQ/s1600/IMG_0004.jpg"
+                                href="/imagesIMG_0004.jpg"
                                 imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0"
                                     height="240"
-                                    src="http://4.bp.blogspot.com/_5HOAXNGNmPE/TGGGby8d7zI/AAAAAAAAAJY/IXb1C9NfMFQ/s320/IMG_0004.jpg"
+                                    src="/imagesIMG_0004.jpg"
                                     width="320" /></a></td>
                     </tr>
                     <tr>
@@ -117,10 +117,10 @@ categories:
                 <tbody>
                     <tr>
                         <td style="text-align: center;"><a
-                                href="http://1.bp.blogspot.com/_5HOAXNGNmPE/TGGHk-Cp18I/AAAAAAAAAJg/GGBOBPIwEXk/s1600/IMG_0009.jpg"
+                                href="/imagesIMG_0009.jpg"
                                 imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0"
                                     height="320"
-                                    src="http://1.bp.blogspot.com/_5HOAXNGNmPE/TGGHk-Cp18I/AAAAAAAAAJg/GGBOBPIwEXk/s320/IMG_0009.jpg"
+                                    src="/imagesIMG_0009.jpg"
                                     width="240" /></a></td>
                     </tr>
                     <tr>
