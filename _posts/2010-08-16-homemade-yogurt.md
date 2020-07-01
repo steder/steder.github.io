@@ -84,10 +84,10 @@ categories:
                 <tbody>
                     <tr>
                         <td style="text-align: center;"><a
-                                href="/imagesIMG_0003.jpg"
+                                href="/images/IMG_0003.jpg"
                                 imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0"
                                     height="240"
-                                    src="/imagesIMG_0003.jpg"
+                                    src="/images/IMG_0003.jpg"
                                     width="320" /></a></td>
                     </tr>
                     <tr>
@@ -101,10 +101,10 @@ categories:
                 <tbody>
                     <tr>
                         <td style="text-align: center;"><a
-                                href="/imagesIMG_0004.jpg"
+                                href="/images/IMG_0004.jpg"
                                 imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0"
                                     height="240"
-                                    src="/imagesIMG_0004.jpg"
+                                    src="/images/IMG_0004.jpg"
                                     width="320" /></a></td>
                     </tr>
                     <tr>
@@ -117,10 +117,10 @@ categories:
                 <tbody>
                     <tr>
                         <td style="text-align: center;"><a
-                                href="/imagesIMG_0009.jpg"
+                                href="/images/IMG_0009.jpg"
                                 imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0"
                                     height="320"
-                                    src="/imagesIMG_0009.jpg"
+                                    src="/images/IMG_0009.jpg"
                                     width="240" /></a></td>
                     </tr>
                     <tr>

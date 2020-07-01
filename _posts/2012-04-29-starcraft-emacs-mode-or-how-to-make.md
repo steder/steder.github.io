@@ -20,11 +20,11 @@ comments: false
             <tbody>
                 <tr>
                     <td style="text-align: center;"><a
-                            href="/imagesScreen+Shot+2012-03-06+at+10.33.51+AM.png"
+                            href="/images/Screen+Shot+2012-03-06+at+10.33.51+AM.png"
                             imageanchor="1"
                             style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
                                 border="0" height="65"
-                                src="/imagesScreen+Shot+2012-03-06+at+10.33.51+AM.png"
+                                src="/images/Screen+Shot+2012-03-06+at+10.33.51+AM.png"
                                 width="640" /></a></td>
                 </tr>
                 <tr>
