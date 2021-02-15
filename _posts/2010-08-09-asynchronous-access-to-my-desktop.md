@@ -1,22 +1,19 @@
 ---
 layout: post
-title: "Asynchronous Access to My Desktop Pictures"
-date: 2010-08-09
+title: Asynchronous Access to My Desktop Pictures
+date: 2010-08-09T00:00:00.000Z
 comments: false
 categories:
- - twisted
- - python
-
+  - twisted
+  - python
 ---
-
 I've been working a lot with [Twisted](http://www.twistedmatrix.com/)
 lately so I thought people might appreciate
 a fun example of how one could download a bunch of files quickly using
 asynchronous IO.
 
 Anyway, this script currently grabs a ton of nice hi resolution
-National Geographic photos. Enjoy! ([Download the python file
-directly](http://penzilla.net/NatGeoImages/natgeo.py))
+National Geographic photos. Enjoy! 
 
 ```
 #!/usr/bin/env python
