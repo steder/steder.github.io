@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Posting with Apache Bench"
-date: 2010-08-13
+title: Posting with Apache Bench
+date: 2010-08-13T00:00:00.000Z
 comments: false
+categories:
+  - python
 ---
-
 <div class='post'>
     Because it took me a disproportionate amount of time to figure this out the second time I'm writing it
     down:<br /><br />ab -n 1000 -c 25 -p sessionkey2.post -T "application/x-www-form-urlencoded"
@@ -24,11 +25,4 @@ comments: false
     <div><br /></div>
     <div><br /></div>
 </div>
-<h2>Comments</h2>
-<div class='comments'>
-    <div class='comment'>
-        <div class='author'>pixou</div>
-        <div class='content'>
-            super thanks, saved my day !</div>
-    </div>
 </div>
